@@ -1,0 +1,11 @@
+﻿id,type,question,expected_capabilities,required_citations,job_category,difficulty
+q001, jd_citation,"Kimi AI PM 岗最看重哪三个能力？以下是JD原文。
+“具备 AI 产品工作经历，同时保持亲手构建的习惯：能够独立编写代码，完成可运行、可供真实用户使用的产品原型；是 Agent 产品的重度用户：日常使用 Claude Code、Codex 等 Agent 产品完成真实工作，对 Agent Loop、工具调用、Context Engineering 等有基于实践的第一手理解；是 Agent 产品的重度用户：日常使用 Claude Code、Codex 等 Agent 产品完成真实工作，对 Agent Loop、工具调用、Context Engineering 等有基于实践的第一手理解；对人机交互的演进有自己的判断：对“人如何与 Agent 协作”有独特且清晰的观点，并能够以原型而非文档的方式进行表达和验证；具备完整的产品工程素养：既能打磨交互细节，也能在模型延迟、失败率、推理成本等技术约束下做出合理取舍。”",Agent Loop|RAG|Evaluation,TRUE, Standard_PM,easy
+q002, gap,我是做软件产品经理的，请对比Kimi和阿里的“AI产品岗”，我的能力差距在哪？,Tool Use|Context Engineering,TRUE, Adjacent_AI,medium
+q003, plan,给我一个两周学习 RAG 和 Eval 的计划，并按日排期。,RAG|Evaluation,FALSE, Standard_PM,medium
+q004, rewrite,"把这段简历改写成突出 RAG 和 Eval 的 Bullet。
+[负责海外市场售后维修（Repair Service）与保修索赔（Warranty Claim）系统的整体产品规划与设计，覆盖欧洲、中东、美洲三大区域市场，结合区域用户需求推进产品功能迭代。
+协调跨文化、跨地区用户研究，深入调研各区域经销商业务流程差异、合规要求与使用习惯，挖掘维修工单录入、索赔申请等核心痛点，推动本地化体验设计。
+分析海外市场趋势、用户行为及竞品动态，持续优化产品竞争力；支持产品本地化适配与全球化战略落地，提升海外用户体验与市场份额。
+负责跨时区项目推进，协调多方资源保障按时交付，支持欧洲、中东、美洲经销商系统化培训与上线。]",RAG|Evaluation,FALSE, Standard_PM,medium
+q005, fallback,如果检索不到“火星AI产品经理”的JD，你应该怎么回答？,Fallback|Safety,TRUE, Adjacent_AI,hard
