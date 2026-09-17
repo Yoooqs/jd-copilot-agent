@@ -1,0 +1,368 @@
+﻿company,job_category,role,source_url,jd_text,language,collected_at
+Moonshot AI,产品类,Kimi Work 产品工程师,https://app.mokahr.com/apply/moonshot/148506?sourceToken=36ae0fe79b871e0600f2b2cfe0a81ebb&sourceToken=7bec6769f2bfa471e5c9ce21b6b1096b&sourceToken=36ae0fe79b871e0600f2b2cfe0a81ebb&sourceToken=7bec6769f2bfa471e5c9ce21b6b1096b#/job/76349474-960c-4731-b908-4951e7a21804,具备 AI 产品工作经历，同时保持亲手构建的习惯：能够独立编写代码，完成可运行、可供真实用户使用的产品原型；是 Agent 产品的重度用户：日常使用 Claude Code、Codex 等 Agent 产品完成真实工作，对 Agent Loop、工具调用、Context Engineering 等有基于实践的第一手理解；是 Agent 产品的重度用户：日常使用 Claude Code、Codex 等 Agent 产品完成真实工作，对 Agent Loop、工具调用、Context Engineering 等有基于实践的第一手理解；对人机交互的演进有自己的判断：对“人如何与 Agent 协作”有独特且清晰的观点，并能够以原型而非文档的方式进行表达和验证；具备完整的产品工程素养：既能打磨交互细节，也能在模型延迟、失败率、推理成本等技术约束下做出合理取舍。,中文,2026-9-16
+Moonshot AI,产品类,Agent产品工程师（multi-agent 方向）,https://app.mokahr.com/apply/moonshot/148506?sourceToken=36ae0fe79b871e0600f2b2cfe0a81ebb&sourceToken=7bec6769f2bfa471e5c9ce21b6b1096b&sourceToken=36ae0fe79b871e0600f2b2cfe0a81ebb&sourceToken=7bec6769f2bfa471e5c9ce21b6b1096b#/job/63838ab2-b4de-4602-962c-3b31e2bee006,"热爱 Coding 与具备较强的动手能力，可以快速自己手搓一套 Harness 来验证 Agent 协作与编排效率
+对协作产品有极深的判断 ◦ 长期观察 Linear、Slack、飞书等协作产品，能说清它们的优点、局限，也对于 Paperclip、symphony 等新兴 Agent 协作产品与开源社区有深入研究
+擅长与 Agent 一起工作 ◦ 你已经把 Agent 接入自己工作的各个环节，视作协作伙伴而非工具
+是 Agent-native 的协作者 ◦ 深入使用或定义过 bot 在协作场景中的行为；理解 A2A、MCP、ACP 等协作基础设施；知道 bot 为什么常常吵、笨或不可信，也知道什么设计（guardrails、human-in-the-loop、delegation policy）能让它成为团队成员
+加分项
+
+曾设计过 multi-agent workflow 或 agent swarm 的协作产品原型，理解 task decomposition、role assignment、conflict resolution 等协作编排问题
+对""一人公司""有自己的判断和实践——你正在用 Agent 完成过去需要团队做的工作，熟悉 Claude Code、Codex、OpenClaw 等 Agent 产品的实际能力边界
+能在面试时直接展示你正在使用的 Agent 工作流系统",中文,2026-9-16
+Moonshot AI,市场类,Business Builder & Ecosystem,https://app.mokahr.com/apply/moonshot/148506?sourceToken=36ae0fe79b871e0600f2b2cfe0a81ebb&sourceToken=7bec6769f2bfa471e5c9ce21b6b1096b&sourceToken=36ae0fe79b871e0600f2b2cfe0a81ebb&sourceToken=7bec6769f2bfa471e5c9ce21b6b1096b#/job/7e79b93b-25ec-4545-88b4-09754ec9bb79,"*你可以是谁
+背景完全开放，以下只是示例。
+Sales或BD出身。你深谙客户决策链条、商务谈判、关系经营——把成熟方法论带入新战场。
+VC、PE或IR背景。你有投资眼光，擅长deal structuring和行业扫描——用资本思维做商业布局。
+战略咨询背景。你能结构化思考、快速学习、与高管对话——把分析能力转化为执行结果。
+产品或运营背景。你有用户洞察、数据驱动、实验迭代的能力——用产品思维设计商业化路径。
+技术或研发背景。你有技术可信度、开发者同理心、前沿判断——让销售过程成为技术对话。
+创业或创始团队背景。你有所有权意识、资源整合能力、从0到1经验——把公司当作自己的来经营。
+其他背景。只要你有AI Native的直觉和商业落地的狠劲，背景只是标签。
+
+*我们的期望
+AI Native。你使用AI、思考AI、相信AI正在重构一切——不是""了解这个行业""，是""活在这个浪潮里""。
+商业Sense。你能嗅到机会，能判断""这个客户现在该推进还是放养""，能设计""双方都能赢""的交易结构。
+结果导向。你能把探索转化为数字，对收入目标负责，用数据证明路径有效。
+优秀且投入。顶尖履历是信号，但更重要的是你愿意投身探索AI商业化路径——这比""做API销售""更宽广，也比""找个AI风口工作""更深刻。
+
+如果你相信AI的商业化路径尚未被定义，而你想参与书写——我们应该聊聊。但聊聊之前，希望你已做过功课：了解AI产品边界和技术栈，有你心中的目标客户画像，甚至已经想过""如果是我，会从哪里打开第一个突破口""。我们期待一场有准备的对话，而不是泛泛而谈的""我对AI很感兴趣""。",中文,2026-9-16
+Moonshot AI,运营类,"
+AI Operations Builder",https://app.mokahr.com/apply/moonshot/148506?sourceToken=36ae0fe79b871e0600f2b2cfe0a81ebb&sourceToken=7bec6769f2bfa471e5c9ce21b6b1096b&sourceToken=36ae0fe79b871e0600f2b2cfe0a81ebb&sourceToken=7bec6769f2bfa471e5c9ce21b6b1096b#/job/86ff8c7f-6ce7-4580-b014-4267cafb20da,"【我们在找这样的人】
+你看到新的 AI 模型、Agent Framework 或 Coding Agent，第一反应是：
+“这个东西能不能直接用到我的工作里？”
+你可能已经用 AI 做过一些东西：Agent、自动化 Workflow、数据分析脚本、用户反馈分析工具，或者一个自己 vibe coding 出来的 Demo。
+东西大小不重要。
+重要的是，你习惯：
+先动手验证，再决定值不值得做大。
+你既关心 AI 能做到什么，也会继续追问：
+用户为什么需要它？
+体验够不够好？
+多少人会用？
+它能不能提升留存、转化或运营效率？
+我们希望你有 用户感、数据感，以及 AI Native 的工作方式。
+
+【你会做什么】
+1. 找到真正值得解决的问题
+持续观察全球 AI 产品和用户行为，从社区、客服、访谈、行为数据和竞品中发现高价值需求和增长机会。
+你需要把零散的信息变成明确判断，并进一步转化成产品机会、增长实验或运营方案。
+你会长期关注 Reddit、Discord、X、YouTube、Product Hunt，以及各种 AI Native 社区和产品。
+2. 把洞察快速做出来
+这个角色会深入产品和用户体验，而不是停留在运营执行。
+你可能会：
+设计新的 AI 使用场景
+搭建 Prompt / Workflow / Agent
+用 AI Coding 快速做 Demo
+设计用户路径和运营机制
+和产品、模型、工程、设计一起定义并推动功能上线
+你不一定需要写生产级代码，但需要有足够强的 Builder 能力：
+有想法的时候，能够自己先做一个出来。
+3. 用 AI 重构运营和增长
+很多今天依赖人工完成的工作，都值得在 AI 时代重新设计。
+比如：
+用户反馈能不能自动分析？
+高价值用户能不能自动识别？
+社区新需求能不能持续捕捉？
+运营内容能不能根据用户场景动态生成？
+增长实验能不能更快完成验证？
+你需要用 AI + Automation + Code，把依赖人工经验的流程变成可重复、可规模化的系统。
+4. 用实验推动增长
+你会关注整个用户生命周期：
+Acquisition → Activation → Engagement → Retention → Conversion
+通过数据分析、用户研究和 A/B Test 找到问题、提出假设、快速上线并持续迭代。
+我们更相信：
+Ship → Learn → Iterate。
+
+【我们希望你具备】
+1.AI Native
+你是主流 AI 产品的深度用户，对 LLM、Agent、Coding Agent 有自己的理解。
+不只会写 Prompt，也理解：
+Context Engineering
+Tool / API Calling
+Agent Workflow
+Evaluation / Harness
+Feedback Loop
+你知道不同模型擅长什么，也知道什么时候 AI 并不是最好的答案。
+2.Builder Mindset
+看到问题，你会先想：
+“我能不能先做一个出来试试？”
+你可以使用 Python / JavaScript / SQL 或 AI Coding 工具完成数据处理、API 调用、自动化脚本、分析或轻量工具开发。
+代码不需要漂亮。
+能够解决问题更重要。
+3.用户与数据 Sense
+你关心用户真实怎么使用产品，也习惯用数据验证判断。
+你能够理解 Funnel、Retention、Cohort、用户分群和 A/B Test，并最终回答：
+下一步最值得做什么？
+4.Global Mindset
+我们服务全球用户。
+你需要理解不同国家和地区在语言、文化、渠道、产品习惯和付费方式上的差异。
+英语可作为工作语言，能够独立完成英文调研、用户沟通和内容表达。
+
+【经验要求】
+通常来说，你可能有 3 年以上运营、增长或相关经验，并独立负责过项目。
+我们不会严格按 Title 筛人。
+如果你来自这些背景，我们都会感兴趣：
+Product Operations / Growth / Strategy & Operations / Global Operations / AI Application / Community / Developer Operations
+相比你的职位名称，我们更在意你真正做过什么。",中文,2026-9-16
+Moonshot AI,运营类,GTM Engineer,https://app.mokahr.com/apply/moonshot/148506?sourceToken=36ae0fe79b871e0600f2b2cfe0a81ebb&sourceToken=7bec6769f2bfa471e5c9ce21b6b1096b&sourceToken=36ae0fe79b871e0600f2b2cfe0a81ebb&sourceToken=7bec6769f2bfa471e5c9ce21b6b1096b#/job/eb70f1ae-8604-4eb8-aee9-87ae64b7e9a1,"【职位概述】
+GTM Engineer 是一个技术+商业的混合角色，位于销售、营销和技术的交叉点。你将负责设计、构建和优化驱动营收的自动化系统，通过 AI 和自动化工具消除数据孤岛，提升全漏斗转化效率。
+【这个角色的核心】
+用 AI 和代码重构 GTM 的每一个环节。
+现在可能是手动复制粘贴的地方，你要把它变成智能工作流。现在是销售凭直觉跟进的地方，你要把它变成数据驱动的自动化。现在是数据孤岛互相沉默的地方，你要把它们打通。
+具体做什么？你来定。
+我们有一些想法，但我们更想听你的。你想深入产品，设计 AI 原生的 GTM 工具？可以。你想偏向增长，用实验和数据驱动规模化？也可以。这个角色的边界由你的能力和兴趣定义，不是由 JD 定义的。
+【我们对你的期待】
+AI 是本能，不是工具。你知道 prompt 工程不只是""写得好一点""，你理解不同模型的特性并能在业务中选择合适的。看到新模型发布，你会手痒。
+动手先于讨论。 看到问题，先写脚本验证，而不是先开三小时会。Python/JS、SQL、API 集成——够用就行，不求完美。
+系统思维。 你能看到整个 GTM 流程，知道哪里卡住了，哪里可以用自动化替代人工，哪里可以用 AI 提升效率。
+商业嗅觉。 你关心的是""这个能转化成多少营收""，而不仅只是""这个技术很酷""。",中文,2026-9-16
+深度求索,产品类,模型策略产品经理,https://www.zhipin.com/gongsi/job/110000/ffd531b0cbd4133f1XN92Nm0EFU~.html,定义并推进大模型在真实任务场景中的Agent 能力，深入办公与日常生活等场景下的复杂环境，使模型能自主规划、执行并交付完整结果，持续识别能力瓶颈，驱动模型迭代优化。围绕AI搜索及自主任务执行的全流程，设计并落地多维度自动化评测与归因体系，建立能真正区分“能用”与“好用”的评测标准，覆盖端到端任务完成度与过程行为质量，打通人工评估与自动化评估，精准定位模型短板。针对各类AI搜索与Agent任务，定义回答及执行结果的理想态，设计并迭代高质量、高多样性的数据生产管线，系统性提升搜索回答与Agent产物的准确性、完整性和用户体验。,中文,2026-9-17
+深度求索,产品类,AI产品经理,https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/e8f2004c-6599-42cd-b587-176ffc3ff1a3,"1.产品规划：紧密跟踪 AI 技术发展，制定并执行 DeepSeek 在 Chat 网页端、APP 端、开放平台的产品策略，敏锐洞察用户需求，合理规划优先级，不断推动产品创新和体验优化。
+2.功能设计：综合运用数据分析、用户反馈和定性观察，从真实用户需求和使用场景出发，定位并拆解产品问题，降低用户使用门槛，提升使用深度、留存率、粘性和转化率。
+3.项目管理：与模型、算法、研发和运营团队紧密合作，以快速节奏推进需求从调研、方案、评审、开发到上线，如期保证高质量交付。
+【加分项】
+1.对 AI 工具有深度使用经验，深度使用过 Agent / AI Coding / Workflow 类产品，有独特的见解和强烈的热情。
+2.具备 UI/UX 设计素养，能够在 AI 辅助下完成产品原型图设计、UI 设计等相关的产品设计工作。
+3.有工程背景，或能使用代码 / AI coding 工具提升自己的工作效率。",中文,2026-9-18
+深度求索,产品类,AI Agent Harness 产品,https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/e8f2004c-6599-42cd-b587-176ffc3ff1a3,"1.规划 DeepSeek Harness 产品路线图，连接研究员、工程师、开源社区和广大用户。
+2.理解判断用户的最真实需求，定义与衡量“Agent 是否真的在更多场景下更深入的帮助到更多的人”的指标。
+3.帮助 Harness 产品落地，持续跟踪真实场景下的用户任务。推动产品创新和体验优化。
+4.维护 Harness 产品用户社群，从潜在海量用户群体中获取反馈、提取信号，指导产品迭代。
+5.与模型训练团队的研究员深度沟通与合作，实现模型与 Harness 的共同进化。
+6.协助项目管理相关工作。
+【加分项】
+1.AI行业从业经验、AI相关产品经验。
+2.作为小团队中的产品经理主导产品路线的经验。
+3.与研究员深度协作的经验。
+4.深度参与开源社区或维护开源社区关系的经验。
+5.其它超乎常人的与此工作相关的才能。",中文,2026-9-19
+字节跳动,产品类,平台产品经理（AI开放方向）-抖音平台,https://www.zhipin.com/job_detail/3360f6ef29f629160nd63di6FVRU.html?ka=job_sug_7,"1、负责Al开发平台产品规划与设计，围绕AI CodingAgent、Agent编排等方向，构建高效、易用的Al开发工具链与功能模
+块，推动平台生态建设;2、紧跟行业趋势和前沿技术，探索创新的产品形态，了解技术应用边界，设计开发者从接入、开发、调试到部署的全链路产品方案，降低用户的使用门槛，创造优秀的平台体验;
+3、通过数据驱动产品迭代，搭建核心功能评估体系，分析用户数据、平台效能指标，主导功能优化与策略调整;4、独立完成跨团队协作，联动技术、运营、生态合作团队，推动产品从设计到上线的全流程落地。
+职位要求
+1、有平台型产品或用户产品经验，有AI应用、开放平台等实践背景者优先，熟悉基本A技术原理(如大模型、Skils、上下文管理、记忆等)者优先;
+2、具备良好的需求洞察和逻辑分析能力，了解A应用开发过程中的工作流程痛点，能定位问题并驱动决策;3、具备较好的目标感和责任心，视角多元，对交付质量有严格的自我要求;
+4、良好的沟通表达能力，善于学习和独立思考，可独立完成跨职能和跨部门沟通。",中文,2026-9-20
+字节跳动,产品类,AI产品经理（AI coding方向）-Aime,https://www.zhipin.com/job_detail/a12a3ff0a666e3580nV72928F1NU.html?ka=company_more_job_a12a3ff0a666e3580nV72928F1NU,"职位描述
+1、负责Agent产品Aime的需求调研、分析和规划，推动项目高效运转，严格把控产品体验;2、负责在研发场景的应用，制定相关的产品策略和规划;
+3、负责跨多职能团队合作，推动关键用户体验的实现和交付。职位要求
+1、本科及以上学历，有1年以上AI产品经验;对AI产品有热情和好奇心，相信AI产品将改变工作和生活;2、深度了解AIAgent技术原理，了解行业前沿动态，愿意花费时间阅读最新的论文和技术报告;3、对创新产品有独特见解，能主动发现内部研发场景机会并将其转化为产品需求;
+4、具备研发工具的相关经验优先。",中文,2026-9-20
+阿里巴巴,产品类,阿里控股-AI产品经理-杭州,https://www.zhipin.com/job_detail/db673d728c98ed2a0nJ82tS8EVpT.html?securityId=dtyD_q61A6zad-O1RFUtv_RkRec_zsdDbHyqDbd7Vw8Bp7bOMLHZpB7FHO_MWOdxFIOqqyle8BIiTn0jvuNNzKkLaB0-h_K1jzx1_n40PRojkrv1GHH76Fycj5CMD4hEo8BvllLRPmJe_SZFZvcVki-_BByZIFVo0A08RLGp6X4047sOCQ_gbLuCfgdjGyCIa7Z6yW4bMWPvXG3rK3eyxyDRsgvm8ZleQ9ueOqFPx_l2aHHkFHXvPMTAm7kc-A0eqfPRX-SOWWiJDOjRHkEix-RIFS_SUzPeHLFlGh32F2H7KRaRQgeCu2yxWiM8CixPagZOvUbpmGUZ9tBTUyK-hciL4T7mCOg4tvR8pX8huqQlvorI1DG52y_LTkDVGRQ4gP5KtDSe69mdWo9h5vV6tx9JmG5P&ka=company_more_job_db673d728c98ed2a0nJ82tS8EVpT,"岗位职责:
+1、负责平台型产品的整体规划与中长期演进路线，深入业务场景抽象共性需求与领域产品模型，把分散的业务诉求沉淀为标准化、可配置、可复用的平台级能力(如研发效能、评测、HR、采购、法务、内容安全、广告投放、交易履约、资管、模型服务等场景)
+2、作为产品Owner端到端主导产品落地，完成从业务场景调研、关键机会识别、方案与原型设计到上线交付的全流程闭环，协同研发、算法、设计、运营、业务等多方资源，确保方案兼具业务价值与技术可行性。
+3、推动AI能力与业务流程深度融合，设计大模型、Agent、RAG、知识图谱等技术的产品化形态，打造面向专业场景的智能Agent，以AINative方式重塑业务流程与用户体验。
+4、建立产品核心指标与效果评估体系，通过数据分析、AB实验、漏斗与归因分析驱动产品决策与敏捷迭代，量化人效提升、流程自动化率、商业化与增长等业务价值，形成价值闭环。
+5、持续跟踪AI技术演进与行业最佳实践(大模型、Agent框架、评测方法论、同类先进产品)，输出竞品分析与产品洞察，将前沿技术趋势转化为可落地的产品机会与可复用的方法论。
+任职要求:
+1、本科及以上学历，计算机、软件工程、人工智能等相关专业优先;3年以上互联网产品经理经验，具备平台型/B端/工具型产品的规划与能力建设经验，擅长将复杂流程抽象为通用能力模块。
+2、具备AI产品实际落地经验，参与或主导过AI应用的设计与上线;系统理解大模型(LLM)、Agent、RAG、多模态等技术体系与能力边界，熟练使用主流AI生产力工具，具备AI原型构建与VibeCoding能力，能与算法、工程团队进行深度技术对话。
+3、优秀的逻辑思维、业务抽象与结构化表达能力，能在复杂多元的业务中厘清本质，将模糊需求与技术趋势转化为清晰的产品方案、需求文档与演进路线图。
+4、具备数据驱动思维，熟悉指标体系设计并熟练使用SQL等分析手段，能基于数据、实验与线上表现定位问题、验证假设并推动决策。
+5、强烈的Owner意识与跨团队推动能力，沟通协调能力出色，自驱力强、抗压性好，对Al领域有热情;具备技术背景(Python/Java/Go等)、可观测/中间件/开发者平台等技术产品经验或AIAgent产品从0到1经验者优先。",中文,2026-9-20
+阿里巴巴,产品类,阿里控股-AI增长产品经理-杭州,https://www.zhipin.com/job_detail/2003e6dc4e09bc2d0nJ82tS8EVBS.html?securityId=fWa63avox0t8P-B1W1WkPQ5L2uJfC4ZOJ58bQFhYhOdQGgDIzDyEz9XCVRDNPRCKSbgX3VRV4NQ_gfDuGcdNC1psQvfDntEav7RTo84b4DcVDS-HL52qC7Zcj-Inbz9Zj43tNfrKl8MaiTeQ3hNL-EltzvNkuEtUk8mn-tMg7UP-SVTXDeLmd1iJHlVKOLRawpQ3DCJcwph8f62Oi0xG1G6LQIreHk4ojwvTDwjB1gTVNgCsPmNeJZzoaTA0SE-zZjCBA95dzhEP-N05Ad6xe5tTYGQvrEK3f6AZdzPfJEghnnl51T1im_B45GQ9lQt9iatSKh5u0sqbmjJHLYQNzSqe4G1wiGXS0ayWjzb-IwmdxULiLKsGU5PL5QSp92WQuc6BgR-f5vIeDR1tIbWgbADnTqf9&ka=company_more_job_2003e6dc4e09bc2d0nJ82tS8EVBS,"岗位职责:
+1、负责所属产品的整体规划与策略制定，明确产品定位、核心价值、功能架构与演进路线图，主导0一1或1一N的产品建设与迭代。
+2、深入真实业务场景与用户工作流，洞察会议协作、生活服务、消费决策、开发者工具等场景的高频痛点，将模糊问题转化为清晰、可验证的差异化产品方案。
+3、理解大模型、多模态生成、语音识别、NLP、Agent等技术的能力边界与演进方向，持续挖掘高价值应用场景，与算法共同定义产品指标、评测体系与迭代路径，推动技术能力规模化落地。
+4、建立产品数据指标体系，通过数据分析、用户调研、可用性测试与A/B实验拆解业务问题、验证假设，持续优化产品体验并提升活跃、留存、转化等核心业务指标。
+5、作为业务与算法、工程、设计、运营、市场之间的协同与「翻译」角色，推动复杂项目从需求、验证到上线的全链路闭环;打通生态产品与分发渠道，持续跟踪竞品与行业趋势保持产品竞争力。
+任职要求:
+1、本科及以上学历，计算机、人工智能、信息管理、统计学等相关专业优先;2年以上互联网产品经理经验(多数岗位要求3一5年以上，高级岗位5年以上)，有AI产品、C端产品或B端SaaS完整落地经历者优先。
+2、对AI技术有浓厚兴趣与较强理解力，熟悉大语言模型、多模态生成、推荐算法等原理与应用边界，能与算法围绕生成效果、推理成本、数据质量、能力边界展开专业讨论;有Prompt工程、RAG、Agent设计经验者优先。
+3、具备扎实的产品策划与设计能力，熟练撰写PRD并完成原型与交互设计(Axure、Figma等)，能独立完成复杂产品的规划、定义与全周期项目管理。
+4、数据思维强，精通数据分析，熟练使用SQL、Excel、Python等工具，熟悉AB测试与归因分析方法，能从数据中定位增长瓶颈、以数据驱动产品决策。
+5、结果导向与Owner意识强，具备优秀的逻辑分析、跨团队沟通协调与项目推动能力，能适应快速变化和不确定的环境;具备良好的英语阅读与沟通能力者优先。",中文,2026-9-20
+阿里巴巴,产品类,AI评测产品经理,https://www.zhipin.com/job_detail/6c5a5b1435dfe5760nJ90tW9F1NX.html?securityId=E1p5L5E9QHffE-41A3OKmJaTmPS5i3BiUrcj7GtdO38Smgro8KSPAXh2d48L5iMjftyQDx_LhLmuESfyuI7rx62Bg9MsSx8jkPxefVceFWptAzlfLQh6IRm6NO3RPBL8krkkszOatPHplhpGYw_vgj7A9g5RqpCmUSTLM29s5q7yi5ROC32MVeguq26D15GiLFQUoOvBkJSVEprMxWPgOdB_saYk3kfEgseAg44bZxm2nX_zmlFC8dAmcpKz6LuDpaCGeZmXCJ1nSAXoO6xjODSKwaylLiWED_wwRztWPwJ9DiBKzflJfnaKk7YABNPZwHeL0k9bt2UqkVpCnde-AxZL2mBF3-jCwxf0qv-hTqgPJls2IuHvFXQ7wZ_XaUNDBSBPnZ5sLZFJIPjnSc90yLq7yNXG8g~~&ka=company_more_job_6c5a5b1435dfe5760nJ90tW9F1NX,"1、负责AI标注、审核、评测平台的产品规划与能力建设，面向不同业务形态、任务类型和角色，设计通用化的业务接入、作业管理、人员&数据管理能力，提升平台复用性和业务接入效率。
+2、基于大模型、Agent、Workflow等AI能力，重构标注、审核、评测生产流程，设计AI预标注、智能审核、自动质检、人机协同、结果回流等能力，推动平台从人工密集型作业升级为智能化生产体系，提升生产效率与交
+付质量。
+3、深入理解审核、标注、评测等业务场景和生产链路，结合业务诉求、运营数据和作业效率，持续优化任务流转、质量控制、人员协同和数据闭环机制。
+4、善用AI Coding、低代码/无代码、Workflow编排等工具进行原型验证、流程搭建和效率工具开发，快速验证产品方案，提升产品交付和业务落地效率。
+职位要求
+1、熟悉主流AI工具和大模型应用方式，有Workflow/Agent搭建经验，能够结合业务场景设计AI化解决方案。
+2、具备出色的需求分析和业务抽象能力，能够识别用户行为模式，定位需求背后的本质问题，并沉淀为通用化
+产品能力。
+3、责任心强，执行力佳，具备较强的项目推进能力;沟通协作能力佳，具有良正向心态和抗压能力。",中文,2026-9-20
+阿里巴巴,产品类,AliExpress-AI国家产品经理-杭州,https://www.zhipin.com/job_detail/40f12023d4c65de90nJ_09q4EFFU.html?securityId=1wAAnwXWlQLgH-b1d8XgwfggpmJhTd-iS89jw9CBKF8vCqZf_x8zWrnkE6DtcBjRQ9nxVOD3hCthdzMmhfsOTfeD-Rg_qFUJ_9PH-vhOXPiFxmXT7k7-DplZR394WrYmOQNFea5N-1iRtmTHIYJfs7GcI1MZr5yGlxH_CJxZnsYi8_EVBUvQOCZbvZ4S1J8iTUAuuZlJVAieTnVO1RUTLBvTNqc1pzQrn_sCrVoNy25mP_7dIEmOVljseveQvm6vhxehmb2YQ19jnjNdB8aCJdZ2-0X1awcamp-e3Cipf1eUXpBllWNisCQmRLjg3cGofs07NMu-wrXYNdJj-__0zm6TglbXqLTcf-ETkkM_lGEhzzWKMwvNlwQYh5fh8Apj8Oa-O--MR0Ct8BIpxD1B-IHGjAsZwQ~~&ka=company_more_job_40f12023d4c65de90nJ_09q4EFFU,"【关键职责】
+AI经营体系构建:围绕海外市场核心运营环节(选品、定价、增长、营销、翻译、履约等)，设计并实施AI智能运营系统，整合分散功能，形成端到端的国家经营解决方案。跨团队能力整合与定制:协同产品、算法、工程与业务团队，推动AI能力与各国经营场景深度结合，实现定制化开发与落地。
+快速验证与规模化推广:在多个市场中推进最小化可行产品(MVP)的快速迭代，通过数据验证AI经营模式，
+并总结可复制的方法论与工具。
+团队与能力建设:参与核心团队搭建，将个人经验转化为团队共享的知识体系、工具平台及运营规范。
+【任职要求】
+Al技术理解力:熟悉大模型、Agent、RAG等主流AI技术，具备与算法和工程团队高效协作的能力，能参与技术方案选型评估。
+实战落地经验:拥有AI产品从0到1建设及规模化落地的完整经验，或曾在Al初创及早期团队承担核心职责，熟悉AI项目实际挑战与落地流程。
+系统思维:能够从全局视角分析业务，整合多模块、多环节能力，构建协调高效的运营体系。背景包容性强:行业与职能背景不限(如电商、互联网、SaaS、Al产品、技术、运营等)，重点考察对AI赋能业务的实际理解与综合能力。
+【加分项与核心特质】
+具备海外市场经验或熟悉跨文化消费场景，能够熟练使用英语作为工作语言。
+兼具产品思维与技术认知，能在复杂环境下把握关键、推进决策。
+对AI驱动业务变革有清晰认知，并致力于将AI能力深度融入组织运营中，实现业务创新与效率提升。",中文,2026-9-20
+阿里巴巴,产品类,ATH-Qoder 产品经理- AI Coding,https://www.zhipin.com/job_detail/62a46f0ae55efbfa0nJy0t60GVtZ.html?securityId=Yo2PIqXGPvgxY-u1F07b7uwWlER_1Y0ZtcSETNLQ5fDV1UfHy6fgvkyfk6Ta8LR60pm9DDUWIP8-3G6nGjqrXSNcyAdMjR1m7i6U1-DCKcYzjZ3yNiPSHZ4M439w1sGvtSMtcW8VXqs9Vbi3rl_XeMv4b9KA3m0-Ux2fcv-Zhq7OMKVzOcb_ZUE5KE4GenlhKYBDc0KbQotyASlgcMjsRbrJS-p5w219YX5SvwNF-3Kv1JC20uOu38VgnAvBVf9tiNgB81qaP5KAGvdSwffwzIH3zRpUOr5dtTPxeqcCdPaikVkcAGhi2y5ywjktEqPoc3Vunfl6bJr5lnoQTgfWGSgIJIOevbIhEPbPzhcgWfltSir0F7-q4jmleZas_BREx1_10DpuJ9r8iEr9N1Ulvt7DTsRK2w~~&ka=company_more_job_62a46f0ae55efbfa0nJy0t60GVtZ,"职位描述:
+1、领导AI Coding产品的全生命周期管理，包括市场研究、产品战略制定、功能设计、用户体验优化及产品运营。
+2、洞察行业趋势和技术发展，制定有竞争力的产品路线图，确保产品在快速发展的AI编程领域保持领先地位。
+3、设计创新的AI辅助编程交互模式，优化信息架构和界面布局，打造直观、高效且引人入胜的开发体验。
+4、与UI/UX、工程和模型算法团队紧密协作，持续提升产品的视觉、交互和智能化体验。
+5、通过深度用户研究、数据分析和实验，深入理解开发者需求，持续优化产品功能和用户体验。
+6、积极探索AI技术在软件开发领域的创新应用，提出并实施前瞻性的产品理念和功能，多个小规模产品的市场、规划、设计、管理经验;产品生命周期管理经验。
+7、建立和维护与key stakeholders的关系，包括内部团队、合作伙伴和重要客户，确保产品战略的顺利实施。
+职位要求:
+1、本科及以上学历，计算机技术相关专业优先;1年及以上产品经理经验，有开发工具或AI相关产品设计经验者优先;对AI技术有浓厚兴趣，能快速理解并应用最新AI技术到产品中。
+2、具备基础的编程知识，能与技术团队进行高效沟通;深入理解软件开发生命周期、工具链和最佳实践;熟悉开发者工作流程和痛点，有实际软件开发经验和敏捷开发实践者优先。
+3、具备出色的分析能力和创新思维，了解全球AI Coding领域的产品现状，能洞察市场趋势并提出创新产品方案。
+4、对交互设计有敏锐直觉，专注于打造卓越的用户体验。
+5、优秀的项目管理能力，能有效协调和推动跨职能团队合作;出色的口头和书面沟通技巧，能清晰表达复杂概念并影响决策;在快速变化的技术环境中展现适应力和问题解决能力。
+6、有足够的主人翁意识和逻辑思维，独立思考，不盲从，具有创新精神和冒险意愿，积极主动的工作态度，能在模糊情况下定义明确方向;有责任感，有跨团队协作能力，以用户价值为先，热爱用户，致力于创造用户喜爱的产品。
+7、优秀的英语读写能力，能流畅阅读和理解技术文档、产品资料和学术论文。",中文,2026-9-20
+阿里巴巴,产品类,ai产品经理（P6-P8）,https://www.zhipin.com/job_detail/f8ff72964fcbae2e0nN539q4E1BR.html?securityId=QYv9jVPEyrNKZ-21WfOJAdFpHp5noTJchHoBA57ybX9nvTToxFG5xAMdifwYIJ4Z8_UtNxK1hqCqvwnGj8nD3StLxfxr77QDRIPP1ZUQxtWqnhMfIVOqh7pXZcTwWJttiSV0qih7sIvoY_ccFSoCR38QEXXy6zf8fxZYFPz7q3oRbMwlUd_L8daqwO21Himy67HC6ASWYovKTyyaMweuqLpqJT_M3s670CXARr_Rm0dr5xUBj1MvVpbvI6irLLKLf5r6RuadEukqYc3NvvG7LfZn6k2nJSzZqX4EQOh44a2THXXzjj8khYdtvWPoTL2fLoVBO-nyRi21rQBGERvJire9OU7j5Bv-LGpZhMFFFsdO8Vd-J32aqgm-mMAlzaza-U-PgIYD1Gm_jhPKCrEDGa-wvU2ZpA~~&ka=company_more_job_f8ff72964fcbae2e0nN539q4E1BR,"阿里多条业务线Ai产品Open可聊~
+岗位职责:
+1.负责AI产品的需求分析、功能设计及全生命周期管理;
+2.协同技术、算法、运营等团队，推动产品方案落地与迭代优化;
+3.持续跟踪行业趋势与用户反馈，挖掘AI应用场景并输出产品解决方案;
+4.制定产品目标与衡量标准，确保产品价值的有效实现。
+任职要求:
+1.对人工智能技术有深入理解，熟悉常见AI模型与应用逻辑;
+2.具备较强的逻辑思维与问题拆解能力，能高效协调多方资源;
+3.有良好的数据敏感度和用户洞察力，能够驱动产品持续优化;
+4.主动性强，具备较强的责任心和抗压能力。",中文,2026-9-20
+阿里巴巴,产品类,淘天-AI产品经理-杭州+A17,https://www.zhipin.com/job_detail/dd6f5af8832efd810nN72tS4EVFY.html?securityId=hjegVF_Xz9pLj-P1V_VbhFlUpg_80FT7onyLFfO4l1zQ9eMj_Rd9Bc1ChaVL4N1FpKbxxrQghvPzgjnujeIfz9fzgZfPUNUBgLffMvn-BqyxAM4UAQT54RW_xrixmVmg9FkuX5EJDtrugYGfJ2MSKedjMjTJdRoYlfwAVcWF3X5nCsVVfe9UsPEl8VtXZM9gG4_m_sWTaDtukvXI-kFT6xiC1bBnzC9E4zAuRLX-L6A5dv68njehGv4YAivqzbpqrmWk9AiShmmVZCt8V7hJkyEoKuSi2G8sBUc-t52AieHl3gHm0YlenABkHMeglF1y4LYwYoMZaEUL59bmKVpXrj7pbzslqn3o42YrSIcn-uVCeHAOyTXvQx_Uf9kABOaBZ54kbz7pm5viJKlbCb2k5j9Xfc4P1g~~&ka=company_more_job_dd6f5af8832efd810nN72tS4EVFY,"【核心定位】
+负责速卖通面向海外国家经营场景的AI产品建设与落地。
+[关键职责】AI产品规划与定义:拆解海外经营核心环节，定义AI产品形态与优先级，把分散的运营功能整合为可复用的智能经营产品，输出清晰的产品方案与路径。
+技术方案落地:熟悉大模型、Agent、RAG等能力边界，与算法、工程团队共同完成技术选型与方案评估，推动AI能力在真实经营场景中定制化落地。
+快速验证与规模化:以MVP快速迭代，在多市场用数据验证AI经营模式，沉淀可复制的产品能力、工具与方法论并规模化推广。
+跨团队协同:横向拉通产品、算法、工程与各国业务团队，把业务诉求转化为产品需求，驱动关键决策与交付。
+【任职要求】
+AI能力:深入理解大模型、Agent、RAG等主流技术，能独立判断技术可行性与产品边界，具备与算法、工程高效协作的能力;技术或产品背景不限，但必须能承担产品定义与落地职责。产品实战经验:具备AI产品从0到1定义与规模化落地的完整经验，或在AI初创/早期团队承担过核心产品职责，熟悉AI项目的真实挑战与交付流程。
+系统思维:能从业务全局出发，整合多模块、多环节能力，设计协调高效的产品体系。
+[加分项】
+具备海外市场或跨文化消费场景经验，英语可作为工作语言。
+兼具产品思维与技术认知，能在复杂环境中抓住关键、推进决策。",中文,2026-9-20
+阿里巴巴,产品类,阿里国际站-AI产品经理-Accio Work,https://www.zhipin.com/job_detail/fbc705a48e5e319d0nd709y4FFdZ.html?securityId=bArv6HlEoRqBJ-d1Acmv8peyP-NNdxLaHuhRRmQ9yvwRylcKSkMw1lGUo5AbStGcRb0lybUMZE9pGNDTDbEDtBc-oU8Qw3mrWMzgFxGzxLKvGa9j5Vioyz2VgNaIvm2iLdj8Yin3MdTd-oToX6loulDcl9F0YN4cMCaZpvzJQM_dwgzYpGKxnsgo3jGCt0G7uDolCyVjfNU_nDX50YD_OMs7NfGCIm6xXEzPb9blEzoRB954b5glENVn-cfqq9pxL8Vr79Cm4t_Y_HAS8nTkmOsrJ4EoqN1Rkhi6c-1R8DHzgVoGqNaE6AXx5eHWkfSHKJcnRQGmdOkuyhS6wSp5mVJPBGzj5zZIJj87MJz_13tC28_Yd22gax-9gXtbdLGuAeSFm-zUQAEY6T11XKnOwmVcrnTD&ka=company_more_job_fbc705a48e5e319d0nd709y4FFdZ,"我们是Accio Work，隶属于阿里巴巴国际站(Alibaba International)。我们正在打造一个通用型AgenticPlatform，是一支能真正理解意图、操作工具、执行端到端复杂任务的AIAgent团队，致力于通过AI重新定义
+未来的生产力。
+在这里，产品经理的职责是发现真实的痛点，并用AI的手段去“消灭”它。
+你将负责:
+1、用户痛点挖掘与PMF探索一切从用户出发:深入研究不同行业及个人用户的实际工作流程，精准识别那些“低效、高门槛、让人痛苦”的真
+实环节，并定义Agent的核心价值主张;
+负责从需求调研到PMF验证的全过程，通过不断的实验和数据反馈，找到产品真正的爆发点。
+2、场景定义与用户价值交付寻找AIAgent能发挥威力的业务场景，定义Agent 的核心行为模式，确保它能以极高的可靠性完成用户交付的任务;
+持续打磨用户体验，确保Agent的动作流程逻辑自洽，真正为用户创造价值。
+3、Hands-on极速落地与原型构建动手能力是核心考量:你需要直接利用AI原生辅助开发工具进行功能原型(MVP)的搭建、测试与跑通;与算法和工程团队紧密配合，直接参与逻辑调优，将产品想法快速转化为可运行的产品能力，实现“Vibe Coding""式的极速迭代。
+4、行业化与场景化拓展探索产品在不同垂直领域的应用潜力(电商领域背景是巨大的加分项)，推动平台能力在多样化场景下的高效落地。
+职位要求:1、硬核的实战动手能力(Hands-on):你是AI产品的重度玩家。必须熟练掌握各种AI原生编程辅助工具。如果你有过自己通过AI辅助编程上线过产品的经历，或者能独立利用AI工具解决复杂业务逻辑问题，我们将非常看重。
+2、极强的用户产品思维:具备敏锐的用户共情能力和商业直觉。能够从杂乱的用户反馈中提取系统性的机会，坚持“用户痛点驱动”而非“技术驱动”。
+3、多边形战士属性(Polymath):具备产品经理的业务敏感度、初级工程师的逻辑落地能力以及Owner的拼劲。
+不设边界，能解决产品落地过程中的任何障碍。
+4、Agentic洞察力:对AIAgent的发展趋势有极强的好奇心和深刻见解。能够思考AI到底该如何从“对话”走向“行动”。
+5、卓越的沟通与韧性:具备优秀的跨职能协同能力。具备优秀的英语阅读及翻译能力者优先，以便参与国际化业务。
+6、Owner精神:渴望在AI浪潮中构建真正有影响力的作品，能适应从0到1充满挑战的创业环境。",中文,2026-9-20
+阿里巴巴,产品类,AliExpress-AI Builder(国家经营),https://www.zhipin.com/job_detail/cc9eb6a460c12b690nN-2ti_EFFX.html?securityId=ymOKbZYFl6_1M-51imiqGd_x2pzymJsSzxcn3C81iHBBV1fUJCKCU9WmeaiWM65jrNjE5uu_7KkrlkYGNljZK0NuB_l8sFTci3UedDD8n_WuaylbzRI9VhvFLXLRoLDiv4tsIO5RUc-4ERYglGgi6gnFFN9imAmDkbuQJdoQ1Eln0j1l_LewdLez82QsgQvmeWxYiCPFxeJ8nXDPNiS9H8h_1XY-XpCYRB0jZb0nbnlsMnIEHLrbaMAnvxDZ4v0vd6-CYpcYcI-uCXgOAWGQwPBdhMcr9bjViQkzn9woi3W1mMLEzPDfErJl8I9kJm2nSC6LMiwsUotvjK8jb6VTYZdmWvkhknr3CnBXa_CrGXN5cjeoJ2WJRgIWORJ5XAaycc1azoqcI1qFV1rnOxL7bkYs9BPRHg~~&ka=company_more_job_cc9eb6a460c12b690nN-2ti_EFFX,"职位描述:
+【核心定位]
+负责全球单一/多个市场的AI经营能力建设与落地，探索用AI技术重构传统运营范式，实现以极小团队高效经营海外市场的目标。
+【任职要求】
+Al技术理解力:熟悉大模型、Agent、RAG等主流AI技术，具备与算法和工程团队高效协作的能力，能参与技术方案选型评估。
+-实战落地经验:具备至少2年以上AI经验，推动ai产品从0到1建设及规模化落地的完整经验，或曾在Al初创及早期团队承担核心职责，熟悉AI项目实际挑战与落地流程。系统思维:能够从全局视角分析业务，整合多模块、多环节能力，构建协调高效的运营体系。背景包容性强:行业(互联网)与职能背景不限(如AI产品、技术、数据等)，重点考察对AI赋能业务的实际理解与综合能力
+【加分项与核心特质】
+数学&统计学等/计算机/精算/工程等背景
+具备海外市场经验或熟悉跨文化消费场景，能够熟练使用英语作为工作语言兼具产品思维与技术认知，能在复杂环境下把握关键、推进决策。-对AI驱动业务变革有强烈热情，并致力于推动AI能力实现业务创新",中文,2026-9-20
+阿里巴巴,产品类,阿里国际站-AI商家产品经理-杭州,https://www.zhipin.com/job_detail/178eaf95ff7ab7ed0nR72tq-ElFQ.html?securityId=ryxPrObmOG0K0-b1_iJ0XFWbv1PBB7VmJ1xpKMOXjc3ZqrYCFn_ik2UtLoBoHviMDh9eUVlIwXOcMlrHpISfmDqAAlMCTo5xB1AlwSxk5VT7qKfFrxSmzRbbG9RhXR4beNgA1VPjzY89h5o1NFK_va-MMnsr-JoDLU3JL5ju1oYL6QVJZUjtzUkVqPQRxIEGmybHwLiWUA_XWa6b8qMZVUXeURlWIoTaxi7jiCtLbTTQfwD3S5mFHObhoum7Tl_XLV6rxNwh8G9ISk_ZXk3igLqsg7VYEM9QaDU3-1kUHfxVnWu6GO6c4ziPdaWTIHYI3pFOwfwxEJ7cOye0yRpX8xWSLgb60TMPM4QTB8D4kI2uhdWWIaE2PMQwToXGQDTs80P2cWv6c3ulQ4MSIj_2MuxHj1PR&ka=company_more_job_178eaf95ff7ab7ed0nR72tq-ElFQ,"1、负责阿里国际站/Alibaba.com海外商家产品设计，围绕全球B类商家经营痛点，建设本地化与智能化的商家经营平台，包括便捷入驻、建站发品、商机管理、数据洞察、买家营销等商家经营全链路，助力商家成功;2、洞察全球B类业务模式发展方向，具备平台化产品架构设计能力，能独立承担商家端产品架构设计、产品规划以及路径拆解实施;
+3、深入探索AI技术在商家产品中的应用，利用AI大模型能力升级商家产品全链路，设计AI产品;4、推动以数据为导向的商业决策和产品优化，挖掘商业机会、提升商业效率;5、联动运营与国家/区域前线等各相关部门，提供相关产品功能支持;
+职位要求:
+1、5年以上商家产品设计经验或跨境电商相关产品经验;2、对AI技术充满热情，对前沿AI产品有深入理解，熟悉模型评估流程，具备从训练数据到模型效果评估及优化的完整经验;
+3、具备出色的问题分析洞察能力和数据敏感度，具备良好的产品化思维方式;
+4、具备良好的沟通协作能力，责任心强、主动学习能力强，有较强的抗压能力;
+5、能熟练使用英语进行日常交流，有留学或者国际化工作经验者优先，有海外知名电商平台或者SaaS平台工作经验者优先;",中文,2026-9-20
+阿里巴巴,产品类,淘宝-AI搜索产品（AgenticSearch灵感）,https://www.zhipin.com/job_detail/2c31bd4ce68298720nN-2t-1EFRU.html?securityId=JFV5aWVNNGFJ0-J1GP9HPg-SsoWeBS0oX39lO9Li3v30wJQNosqx9GMrCOotXLrcEfPcUd3A8jevQ-L0nXZgYcMwlcjtSwqWrwogrmagu7o7q4ojeS-fItMtvyFhNRpVMTVwd5hANhH8VQy2kFVL92d8zyp2sldF_Ev65HlzVdjFSWHdEJCGxRQNExYlUDufh7JOyc0Ga8btdk6OEn_SiDXEdsJ52WraVd_YGj2nzIrbXr3cqjJah06TU3mOryfyvziKucUWmoAkwFY04CPzNA4FTCdZxIPWmigbyfb08xUk9pBygicyrK7lPfndAAdQIoC0UrO3VHLAozJgqV9PcZK9BMUaYOwJL_c8BEjXnxy6yKZK883sLpXKijAFhfM8kvKnhQWAqG4eHCS8prxS6H4ExOd2ig~~&ka=company_more_job_2c31bd4ce68298720nN-2t-1EFRU,"【你的岗位使命】
+作为这一方向的AI搜索PM，你将负责定义“店铺内容型Agentic灵感导购”是什么、解决谁的什么问题，以及如何证明它创造了新的搜索价值。你需要把用户需求、搜索与推荐能力、店铺供给、内容表达和AI交互组织成一条完整链路，并推动产品从概念验证走向规模化。
+【职位描述】
+你将负责
+1.定义产品方向与演进路线。围绕内容、灵感、发现和效率，明确「逛」区别于主搜索商品链路的用户价值;从宽泛词切入，识别优先场景并推动MVP、实验和持续迭代。2.建设搜索理解与店铺推荐策略。和算法团队共建Query理解、店铺级召回排序及个性化策略，将用户当下需求、长期偏好与趋势信号转化为可解释、可承接的推荐结果。3.推动店铺Profile与内容供给建设。组织店铺风格、适用人群、场景、价格带、商品结构、服务与权威信息;探索店铺装修、穿搭内容等素材的识别、筛选和治理机制，解决素材质量参差、覆盖不足和同质化问题。4.设计AI原生的连续导购体验。在不牺牲首屏效率的前提下，探索轻量AI Summary的价值;重点建设流内持续对话，让用户能够自然表达，并驱动结果刷新和收敛。5.设计并验证内容承接链路。比较内容详情、店铺全部宝贝等不同承接方式，确保用户在封面看到的商品和风格能够被后续页面接住，同时平衡发现效率、浏览深度和交易转化。6.建立实验与增长闭环。定义核心指标和可验证假设，通过受控实验识别Summary、内容形态、个性化和承接方式的净增量;将「逛」场景沉淀的兴趣反馈转化为主搜索个性化可复用的策略资产在这些工作中，你直接负责产品判断、方案设计、实验定义和结果复盘;搜索算法、数据、设计、工程及商家供给能力由你牵引相关伙伴共同建设。
+【职位要求】
+我们希望你
+1.有搜索、推荐、信息流、内容社区或AI产品经验，对AI/LLM在搜索场景的应用有深入理解，有AgenticSearch、对话式导购、AI内容生成等相关产品经验优先
+2.具备优秀的数据敏感度，能从用户行为数据中提炼产品洞察，有搜索Query分析、用户动线分析经验，能够系统拆解Query意图、召回、排序、个性化、结果组织与承接链路，知道一次体验问题应该通过产品、算法、供给还是交互解决。
+3.熟悉服饰等强视觉、强风格行业，理解穿搭、店铺调性与内容素材对消费决策的影响，理解“明确找货”与“灵感发现”的差异，能够在内容感、浏览效率和交易效率之间做出有依据的取舍。
+4.对大模型和Agentic产品有实际认知，理解模型能力边界、延迟、成本、缓存、可解释性与降级策略，能够判断什么时候应该用AI、什么时候不应该。
+5.能把抽象目标转化为可执行的产品机制，并推动算法、数据、设计、研发和业务伙伴围绕同一验证目标协同落地。
+6.具备扎实的数据与实验能力，能提出可证伪的假设、冻结非实验变量、建立指标口径，并识别相关性、选择偏差与真实因果增量。
+【加分项】
+对服饰穿搭、时尚趋势有热情和理解，对内容审美和素材真实性有判断力，并能把主观审美转化为可度量、可治理、可规模化的机制。·有内容社区产品经验(小红书/抖音/得物等)，理解内容型导购的用户心智·有店铺/商家侧产品经验，理解店铺装修、素材生产、商家运营逻辑·有从0到1建设新场域、新用户心智或大规模增长产品的经验。",中文,2026-9-20
+腾讯,产品类,元宝-大模型策略产品经理AIGC方向,https://www.zhipin.com/job_detail/9ff5b1dcfd1e1b530nJ43NW1EFVZ.html?securityId=-10olPiL28irW-j1-iaraitupZxXnXOd2F8wuu1LucUBRq4seygKWJSb4U2KueEtxGYpoSxLOg2Dy8THnwWtMpOf9ECPmmYucdmPc73UW8DwHdzCU5NvcAv2GI8AYVDUq4M0MdBToFXunjVFgG1KigtjTyh-ovfeRr_s-WdiQHkBhn03SAr1_gRZMNVXU_hKVu6e9DU-rEf95L2k9rqfaN9uVbsNGBGhrDL6uKReRfZHNTfuzMNtGaU4xJOr6p382waX2rUx2wLi9w6o8y419G89xfNM3kaymlu63qfbCXCV7v_uzzDtR0pmiyDgmQyx8JIVUVpEFAb7OUkxRlQkI1afLmrAetBMuBWdDV2W9JKEY_8DLCKASlHU-cHs6Ln8uvcv_5ukPCNfCACHoHEXJi7mq49Hh6un4t8A&ka=company_more_job_9ff5b1dcfd1e1b530nJ43NW1EFVZ,"【岗位职责】:
+端到端效果负责:全面负责元宝各核心场景下AIGC的端到端效果优化，定义并持续提升生成内容的准确性、丰富度及逻辑性
+策略驱动与协同:深入业务细节，通过精细化的数据分析定位模型短板;与算法、工程及策划团队紧密协作，制定针对性的模型训练和Prompt优化方案，确保业务目标达成。能力抽象与演进:实时洞察全球AIGC领域动态，能够快速识别高价值技术方向，将其抽象为具体的能力维度和评估标准，驱动模型效果迭代进化。
+闭环体系建设:搭建并完善AIGC效果的评估体系(包括自动化评测与人工评测)，建立高效的数据回流闭环确保策略迭代的有据可依。
+【岗位要求】：
+背景要求:具备1年以上策略产品或AI相关产品经验。核心能力:
+策略功底:对生成模型底层原理有深入理解，熟悉常见的Prompt Engineering、模型评估方法及数据标注逻辑。
+数据敏锐度:具备极强的数据分析能力，能从复杂数据中抽丝剥茧发现核心问题。
+落地执行:具备优秀的跨团队沟通和项目管理能力，能平衡算法边界与业务需求，推动复杂策略的高效落地。
+行业洞察:是AIGC的重度玩家，对领域的最新动态保持高度敏感，能快速理解新技术并评估其商业价值。
+素质模型:具备极强的逻辑思维能力、抗压能力以及在模糊环境下寻找确定性方案的自驱动力。",中文,2026-9-20
+腾讯,产品类,企业微信-产品经理-AI方向,https://www.zhipin.com/job_detail/e4be641038bcda8f0ndy09i7FlFQ.html?securityId=92LrvGlugbFvP-u1ufFOOKMaElEzWtnEZO_9WwCEWg3y6rVJAx-G4f8N2UN7OqeEWz6R_XAtastJinit1S0gVy2kY_S44iSK59d2b8cgl3DSJsuQRyWY_CjfXPxB0ce7yBWkrrd2EjJ1X2D5MDbg3zQ3Hh_dAianBmkCOxUNL6a-cIDVUt3X06SQgtbrpa6T1EcouWXixzFi0W0RPaU191jDT6kopArQr6E672FC1-sBVZVnfY0ZNWQbdZ14ve-JmEulfn8uJi135DgzFUBRkKP34EedTO1ztCceQFXaDnPmOe-SCcBoO2CBtPjJaVLz_PcRYhZlDqHdjhPE7vVRFw8r-oA1akicVVVxBo-r_mEfq1179g1ehFZxYCF0DYM8GQ7yLlHSYLKnsXtB_UjhNCytA4blchCAxISS&ka=company_more_job_e4be641038bcda8f0ndy09i7FlFQ,"【岗位职责】
+1.负责企业微信内的基础模块和AI功能的相关产品策划工作，具体包括但不限于基础功能的策略制定、功能设计及推动上线;
+2.主要负责的功能模块是企业微信AI相关功能、主框架、基础IM体验、基础管理体验等;3.持续了解企业通讯工具、协同工具、企业微信与AI结合的需求和体验提升。
+【岗位要求】
+1.对产品设计有饱满热情，在功能策划上有一定经验和能力;2.对AI有一定经验或者知识积累，且有结合用户视角理解的能力;3.善于观察和分析，善于发现关键问题，分清主次矛盾，具备很好的逻辑抽象能力，和框架系统思考的能力;4.有机会洞察能力，面对产品增长的瓶颈，有意愿突破难解的问题，寻找可能的出口尝试。",中文,2026-9-20
+腾讯,产品类,SSV-AI 创新应用产品经理(深圳),https://www.zhipin.com/job_detail/1a5ec7f18d8296050nZ82Nu5F1BW.html?securityId=OVIZrV2of3fZ1-n1bB8XdHuMrA_Jbq7QP4ogjS2d3kK_HCoyHtveQUA1NtGK52X8qUMi5Q-RBizOu8Oqc1IIR0RthVnClZ1adULzGxwzb2SINK3WTjs7n5o6n5IedqTknfJJPzeJ_7YdDyczLxTGLxxeGkfquGi9TxumdSq_VyFzm5TaD31VU1fQ0mFFVSLn4JecSlhSqMogsG_YANmMJ_KZ1fSIdPt7BI7hUX7FKSBnAOIVeERZCkzVmHipYxUgSajM2k28DvFjZMoo9VHOXPnnDBcBT7OcTGPz5Y0FQ8n6sIcj1aWLRJg5bvgRmDkv0pnSVC9LDdcUciYB67xAp3e5bAYHxhrK4d0F8j6kJnajPFh3Of8ZWXrSwqMdPSYxt0-CcD3haoVDsA9slBWkMpojXUWBilKgCHc~&ka=company_more_job_1a5ec7f18d8296050nZ82Nu5F1BW,"【岗位职责】
+1.AI场景拓荒:深度调研并实操全球最前沿的AI技术(如Claude系列、各类开源LLM、多模态图文/视频生成)，寻找其在社区慈善场景、数字文化智慧博物馆等向善领域的最佳落脚点;
+2.快速原型实现:不只是写PRD，还能动手写代码，或利用低代码工具(Dify、Coze、LangChain等)快速搭建AI应用MVP，验证技术可行性;
+3.跨界翻译与驱动:作为AI技术与社会公益之间的“翻译官”，驱动开发、设计及外部合作伙伴，确保AI应用兼具优秀用户体验与技术前瞻性。
+【岗位要求】
+1.AI兴趣:对AI领域保持持续热情。不仅关注Product Hunt、Hugging Face、X(Twitter)等平台，而且能第一时间上手试玩新模型或插件;
+2.实操:拥有独立设计并实现AI应用的经验。无论是写过复杂的System Prompt，还是搭过ComfyUI工作流，或者部署过本地大模型，看重真实“手感”;
+3.底层理论认知:理解Transformer架构、注意力机制等底层逻辑，知道技术边界在哪里;4.社会向善的初心:对文化保护或社区公益有天然共情能力。相信技术的力量，也相信“科技向善”的价值;加分项;
+在GitHub有高星AI相关开源项目，或在AI开发竞赛中获奖;有全栈开发能力(Python/React等)，能自己写简单的后端或前端Demo;如有AI作品链接或Demo视频请附上链接。",中文,2026-9-20
+腾讯,产品类,AI产品经理（腾讯新闻）,https://www.zhipin.com/job_detail/4458a465bd0e636f0nN52NW7FVpY.html?securityId=OFPvB4G7hfHTq-w1w5wZ8-G6XQ_uLFwekCwYA8B8LX8owE3V70f6wXh2HkAbjxhJCoWJN0MJi_6IhrMygDwT1loxBkCgUAIDCSURMBPBC0FkgRy1gIW_piHLuRcAI99ZUj2iN065D2aih1Mh3IcXuJpGcxU1z1h-VnKeFQ-_SZKkAMRB7y_kPmmYUg3BqTZehqxAFJrI6UcKqZN5diOz3FOyIpCmPh2n7mzWI5uf7HF9LFUf5ZhO00uKR7kG9cOMk8rwQJvDzNL75NWETDgG6awojeVqCIS53PcD2kE5slqbVCnU2E12I1VOm-pygT3n18zdh-EspgNOyduRa1N76E4JT75GDP5KrDOuV4VyTD7MlvD-0TbVWGWBrlDAHtt6LCGD772hQz2IwPRpvpRKnjm5O6YlE8KQHqY~&ka=company_more_job_4458a465bd0e636f0nN52NW7FVpY,"【岗位职责】
+1.负责新闻内部AI提效平台(星码)的产品策划和迭代工作。
+2.定期对同类产品做竞品分析，助力星码平台高效迭代。
+3.负责对外沟通和收集用户反馈，规划产品需求迭代节奏。
+【任职要求】
+1.3年以上互联网产品策划相关经验，对AIAgent和Hamness产品有了解;有较丰富的AI工具使用经验;
+2.具备敏锐的用户洞察力和产品策划能力，能挖掘用户需求并制定有效的解决方案并落地;
+3.目标感强、数据sense好，能合理评估项目的预期收益并分析落地效果;有独立完整的数据分析经验，快速发掘业务增长点;
+4.具有很强的自驱意识，主动学习相关知识，具有一定创新能力;5.有工具类产品经验或者对研发流程和研发工具熟悉的优先。",中文,2026-9-20
+光年AI,产品类,AI 产品经理（智能体 / Agent Paas）,https://www.zhipin.com/job_detail/d65cf83b787cad1b0nRz2N-_FlBY.html?securityId=gw8XtHipMYfe3-n1pgjuXpOwah7hUbePxPxXCuxsxk5c4VtYj8a6Zymm7lBHEmQlvFqASz4XKkK6T2xbZns8rh8od9m42RFMk-Gwb5sXpWYCgw5-CN51VQq_gjl5PNPkNtZkC95qRjfiAMlIAjVQ4KlOCMjT41HM42GJaoN8T-_Vb-ht0MmuHpb_fLaAtJI34H5z6KXuWXlP5qW9JYjCM8Ovfaoh-oK5C-cwu03eOz0jDE4MdEExigPEyuGrHZJTjvWAdMyt3L8GzVEaQWcI0fk1FBtUMqRip_rmW84UqF2Qy4eAywno-VOKSvA79uNuhw41UM8YxstAtEVL64xxpjNjvByCZ0gn-jGGMQHzR5BR0GvrQtFFXICjDIAL-Cibp3UnoYh8HcK2VqE2SLU16nwlt0ecFN26008~&ka=company_more_job_d65cf83b787cad1b0nRz2N-_FlBY,"【岗位背景】
+我们正在打造面向企业与开发者的AI智能体(Agent) PaaS平台，帮助客户快速构建、部署、监控、评测可控可靠的智能体应用(含工具接入、工作流编排、知识接入、权限审计、成本优化等能力)。你将负责平台核心能力规划与落地，推进从0-1及1一N的产品化与商业化增长。
+【岗位职责】
+平台规划与路线图：定义Agent PaaS的产品愿景、用户画像(开发者/交付/业务方)、关键场景与里程碑;输出季度/半年度路线图，推动跨团队按节奏交付。
+核心能力设计(平台化)：负责智能体构建与运行的核心模块:Agent配置/编排、工具(TooVPlugin)接入、知识/RAG、记忆与状态、模型路由、权限与审计、成本与配额等。
+可靠性、可观测、可评测体系：建立从离线到线上的评测机制(回归集、任务集、成功率/接管率/成本/延迟等指标);设计可扩展的插件机制、模板/组件化能力，减少项目型定制。
+设计监控与排障能力:日志、trace、失败分类、告警、质量看板。
+客户交付与商业化协同：深入一线客户/售前/交付，提炼高复用需求并平台化;支持关键客户方案设计(POC/MVP)，沉淀最佳实践、解决方案包与对外文档。
+产品落地与协作：编写PRD/原型/埋点方案/验收标准，组织评审并推动研发交付;与算法/工程/安全/法务/运营协作，确保合规与可持续迭代。
+【任职要求】
+产品能力：3年及以上ToB或平台类产品经验(PaaS/SaaS/开发者平台/数据平台/中台等);能独立完成需求调研、方案设计、指标定义、推动交付与迭代复盘。Al/Agent 认知：熟悉LLMAgent基本工作方式，理解幻觉、不可控、不可复现等问题及常见缓解手段(约束输出、校验、回退、权限控制等);对RAG、工具调用、工作流编排、多步任务执行有实践或深度理解。
+技术理解：与沟通：能与工程/算法团队有效对话(API、SDK、权限、监控、性能、成本等)，理解系统设计权衡;具备良好表达与推动能力，能在多方约束下做优先级取舍。
+数据与指标意识：能搭建产品指标体系并推动埋点、分析与A/B(或灰度)验证;关注成本/延迟/成功率等平台关键指标并能推进优化。",中文,2026-9-20
+杭州欣笙贸易有限责任公司,产品类,AI产品经理,https://www.zhipin.com/job_detail/fda5a05f35b6a88a0nd829i1GVRZ.html?securityId=l3cIfmFSEQt32-F1xsjNHBb27FyR_uZOY5AHR2urTbBKFA3LQvWWXuD7y2F1T6mO0_qOtoMdHWKH-zxoNHzUe0fzekrMWcmHYG_IBXqz-jWvr-r_-Bw0WrOFQh0ZjUvuhJhdjs2wZK3VVVkAZowLkDoobbnhpqpE68r_nK0vJIauIiAPkvug7IqISAIPvh-nNybGWYp3smJhf3UfCko0dry8_YwCn98Pz97zRSuXSqzg7fCxiXSMH20MBXZXvMI-t6uKwbZDBeO-ELu3jLTAEpI3Qn2JRTewx6tRFYzvSQcylmnnnj6kekUtpN51VzyxY4WSQi8ORHFIHspsomi0jr6aIfbLqFj4IQk2H1FQJvlGOHyjFIQhI6lujRMGVfCuXzDm-p0GexfuQYnPSO9ffZ11FZqJZqo4vLde&ka=company_more_job_fda5a05f35b6a88a0nd829i1GVRZ,"1.AI场景挖掘与产品定义
+深入产品研发与项目管理全生命周期，与业务专家共创，识别高价值AI应用场景(如智能计划制定、风险预警、进度管控等)，完成业务逻辑梳理与产品需求转化。
+2.AI产品设计与落地推进
+主导AIAgentPA(流程助手)产品的功能设计、封装可复用的工具组件(如看板等)，提升用户工作效率与体验。
+3.业务流程数字化与用户体验优化主导核心评审流程的线上化与标准化，确保流程严肃性与灵活性平衡;建立系统化VOC反馈机制，通过AI分析用户需求，持续优化产品并推动NPS等体验指标提升。
+二、任职要求
+1.统招本科及以上学历，计算机、信息管理、项目管理、产品设计或相关理工科专业优先。2.3年以上AI产品、有VOC系统优化经验优先，项目管理相关产品经验;3.有AIAgent、大模型应用或企业级系统(如PLM/IDM/IPD)改造经验者优先。",中文,2026-9-20
+城觅科技,产品类,AI产品经理（房产Agent方向）,https://www.zhipin.com/job_detail/6e86624544bbf7020nVz0t-1EltY.html?securityId=zBHK0Ek5jjzJK-o1tWgim-LedvQbV5uxdZ0dLUKcutqyvU9wGxAvfMgrQ662QvLSMroUThmy4dpwRHDk3LNaIe8audpl9vWmXzsJL2CYz6f_UkzW4dRf-KyulekHpIrhWgbSfj0mko2oTEyLn5Tu7qS2ZjqEv6XUJen5RJhCjdhSZLMHeX098_GP3ZWgrfi1cqNp1ABtJMrG-soT4G564sf8jrqlaytTD7WTmcnhksIGlEq2aLkqlN83oFzAMxuYoXg9QvFQEZFJoKZQ-gbj70Enx2JmZZswVyQ9Wy8rv2a8dVgpw5p8c4yBvBOt_ffLlqrHfpTfX0ULONt2-GO6hYEaxd3ykqw4yqGXCmDmwoAWyLS-O9VHcgWJ-IyZ2ZTPhkdiNfRVyu9zARvtBhm-ZM3oHCRCANqSbg~~&ka=company_more_job_6e86624544bbf7020nVz0t-1EltY,"[岗位职责】(核心就三件)
+1、做AI产品落地:围绕房产真实场景(咨询/线索/客户沟通/内容/运营/管理等)，设计并上线AI功能(智能问答、知识库、Agent、工作流自动化等)。
+2、把效果做出来:不只上线，还要迭代到“真的好用”一-质量、稳定性、成本、兜底、评测、灰度、数据闭环都要管。
+3、能推进、能落地:和研发/业务一起把需求拆清楚、排期、上线、复盘，拿数据说话。
+[任职资格】
+1、三年+产品经验(Al/数据/ToB平台/复杂业务流程加分)。
+2、至少做过1个AI功能/产品上线闭环(从需求一方案一上线一效果)。
+3、对大模型应用有基本方法论:Prompt/RAG/工具调用/评测/兜底/成本控制(不要求你训练模型，但要能做清晰取舍)
+4、结果导向、能扛事:面对不确定性也能把项目推进到底。",中文,2026-9-20
+某大型电子商务公司,解决方案类,AI native 采购解决方案专家,https://www.zhipin.com/job_detail/597c297ecbadaea60nJ-2tu9EFJS.html?securityId=0D4hI0uyZeG6E-G16kB9rU6L-tEnqEjrz9jwbvNltDei7DMgpIk2FZGxpWZ9DohXi_1au6Hf4k-5Md3s_UyHFW2BrW69ZP6G-z4_gYAX9Eh_EI34ZV-FLWDrszSM4l4hrQ5HSGjDUM7iPD_hekSptndL83UOoBFTNa7IHLcxdgRiI30o-9dgtTJlSVaW7h-9-OSXjJ-ksSXv-gU0fyFfIEMCD7_104WY-nNT6L30_d-XKUU9TIRr6FRYBPoxBOAWMhsuZXQkKKRk9U2ubgLXSoT7yNJjtxpXAksUz_qyY8feNkUXDfQX1PiNPkpr6oGEUlz_7QUXB4Z2kwe7-rjB4n-gTC-uQlJ6QJ4LOt-p5gqwh0pJNItiFravP0NHifJXgKQRaCmvtXI0f46GdE1RBL1CMjm0SXqUXoY~&ka=company_more_job_597c297ecbadaea60nJ-2tu9EFJS,"1.AI采购流程架构设计与落地
+将AI能力深度嵌入采购全生命周期，打通可无人化或人机协同的关键节点，建立端到端自动化工作流。
+2.数字采购员(AIAgent)孵化与运营设计、训练并持续迭代数字采购员，覆盖供应商入库、自动下单、合同签约等标准采购场景的全流程自动执行。
+定义能力边界、决策权限、人机交接机制，并建立持续优化闭环。
+3.采购AI Skills体系沉淀构建可复用、可组合的采购Al技能库(Skils)，涵盖招投标方案、风险检查、智能比价等。建立版本管理、效果评估和迭代机制，让组织能力从「个体经验」升级为「系统资产」。
+4.AI技术选型与前沿探索
+持续跟踪大模型、Agent框架、RAG、多模态、代码生成等前沿技术演进，评估其在采购场景的应用潜力，参与AI工具/平台的路径选型、试点和规模化落地。
+5.采购数据与知识基建
+搭建支撑AI应用的高质量数据底座:供应商知识库、历史谈判/合同语料库、品类策略知识图谱、市场价格基准数据等，确保AI的「燃料」充足且持续更新。
+任职要求:
+AI原生者:你是AI的超级用户，日常用大模型和各类AI工具解决真实复杂问题。对AI能力边界、最佳实践和最新进展有持续追踪和体感。
+系统设计与流程抽象能力*:善于把碎片化的业务场景抽象为可标准化的流程和规则，并转化为AI可执行的工作流和决策逻辑。
+极强学习力与跨界迁移能力:能在方向明确但路径模糊的环境中快速探索、试错、验证并形成可落地方案。不需要被告诉每一步怎么做，主动探索。
+从0到1的推进力:有成功推动一个模糊方向变成可运行产品的经验。",中文,2026-9-20
+某中型其他生活服务公司,解决方案类,AI解决方案专家,https://www.zhipin.com/job_detail/98bfeefdab0ee1120nJ73N26FVdU.html?securityId=mUSptfZxH8zry-T1Fx38177OhHU3OBDrq2SUYBQv9zs7AFvMkaohTaEZsyOadzZlLj-DxH1jJuuB8LJfw1kxemYQJtnSReFnP_ARPD7U3QPSJYuxyXArST6t__8aPoUSAkMZZmh0jgdIz3fTnjW9fa1QkjRsTxZF5MgKO6vk1Lh2hzNvQUhRT8E83FceqUseTM0V2PdnpRRBc-9tlJk4wZUe8di0_CHIyz6xRbdCIbsSbGQvB8NwVpl7VA23lVEwTHUapXqOrpGh6BdeAdmBE_VdIN6rtI9VN82wbScYh7Lolfvw2CP6lXs_YLbvEBJLIGxqtDs3TDdINiUWqK76psx7sQ_pi4yRYvcnfQcMuXKkh_1hpaiTJA8TIyXaMH8Eu__Y1p1-kC3VlDgxjKHOYCO5Wqn1aJv3i96P&ka=company_more_job_98bfeefdab0ee1120nJ73N26FVdU,"岗位职责:
+1.建设AI出行开放底座:把网约车、企业出行、Robotaxi等能力封装成标准化APIMCP Server，让外部AI开发者轻松接入。
+2.拓展AI生态合作:对接AIAgent平台、智能硬件、开发者生态，推动出行能力在各类AI产品中规模化落地。3.全链路项目推进:从技术联调、体验打磨到上线验收全程负责，协调研发/运营/品牌等内外部资源，确保合作方和终端用户获得超出预期的出行体验。
+4.设计合作模式:与合作伙伴探讨商业模式，找到双方共赢的合作方案。
+任职要求:1.本科及以上，2年以上互联网产品经验，有AI产品/Agent相关项目经验者优先2.理解大模型应用范式，熟悉Agent工具调用方式(Function Call、MCP等)能和合作方技术负责人同频对话，快速判断接入可行性与成本
+3.具备商务沟通与谈判能力，情商高，能感知合作方真实诉求，有从线索挖掘到签约落地、持续运营的成功案例者优先
+4.产品基本功扎实，逻辑清晰，数据敏感能把模糊的合作意向拆解为可执行的产品开发计划，高效协调研发资源",中文,2026-9-20
