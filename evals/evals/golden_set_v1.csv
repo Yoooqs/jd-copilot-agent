@@ -1,0 +1,7 @@
+﻿id,type,question,expected_capabilities,required_citations,job_category,difficulty
+q001, jd_citation,Moonshot AI公司AI相关岗位最看重哪三个能力？,Agent Loop|RAG|Evaluation,TRUE, Standard_PM,easy
+q002, gap1,我之前是toB软件产品经理，请对比Moonshot AI的“AI产品相关岗位”，我的能力差距在哪？,Agent Loop|RAG|Context Engineering,TRUE, Adjacent_AI,medium
+q003, gap2,我之前是toB软件产品经理，请对比阿里巴巴的“AI产品相关岗位”，我的能力差距在哪？,Tool Use|RAG|Evaluation,TRUE, Standard_PM,medium
+q004, plan,请你根据阿里巴巴和Moonshot AI的JD，给我一个两周学习RAG和Eval的计划，并按日排期。,RAG|Evaluation,FALSE, Standard_PM,medium
+q005, rewrite,请根据我做的软件产品经理经历，针对Moonshot AI的岗位，改写我的简历Bullet,RAG|Evaluation,FALSE, Standard_PM,medium
+q006, fallback,请分析‘火星AI产品经理’JD,Fallback|Safety,TRUE, Adjacent_AI,hard
